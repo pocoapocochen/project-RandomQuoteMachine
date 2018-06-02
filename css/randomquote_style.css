@@ -1,0 +1,74 @@
+/*common layout related*/
+html, body, #wrap{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#wrap{
+  min-width: 18.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#wrap div, h1, #copyright {
+  width: 70%;
+  text-align: center;
+}
+
+
+/*div #allbtn*/
+#allbtn {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#btn{
+  min-height: 2.187rem;
+  margin-left: 0.625rem;
+  margin-right: auto;
+  font-size: 	1.063rem;
+  background: #0078d7;
+  color: #fff;
+  border: none;
+  border-radius: 0.375rem;
+  outline: none;
+  cursor: pointer;
+}
+
+#twittericon{
+  color: #1da1f2;
+  margin: 0 0.625rem;
+}
+
+
+/*div #quote*/
+#quote {
+  margin: 1.875rem 0;
+  font-size: 1.25rem;
+}
+
+
+/*just font-related*/
+h1, #quote, #btn{
+  font-family: "Comic Sans MS", "Bradley Hand", cursive, sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+#copyright {
+  font-size: 0.75rem;
+}
+
+#copyright a {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
