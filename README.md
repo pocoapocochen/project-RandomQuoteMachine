@@ -1,5 +1,5 @@
 # project-RandomQuoteMachine
-* Project topic from: the Legacy Front End Development Course of freeCodeCamp
+* Project topic from: freeCodeCamp - the Legacy Front End Development Course
 * [Live](https://codepen.io/pocoapocochen/full/pVbRBg) version
 
 ## User Story
