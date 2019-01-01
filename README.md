@@ -1,5 +1,5 @@
 # project-RandomQuoteMachine
-* Project topic from: freeCodeCamp - Legacy Front End Projects- Build a Random Quote Machine
+* Project topic from: freeCodeCamp - [Front End Libraries Projects - Build a Random Quote Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
 * [Live](https://codepen.io/pocoapocochen/full/pVbRBg) version
 
 ## User Story
